@@ -1,2 +1,6 @@
 num 1
-注意gae-django-cms这个文件夹名最好不要修改，如果要修改还得把run.bat和update.bat的路径改为对应的
+t和update.bat的路径改为对应的
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git has a mutable index called stage.
