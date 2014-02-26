@@ -1,1 +1,2 @@
 num 1
+注意gae-django-cms这个文件夹名最好不要修改，如果要修改还得把run.bat和update.bat的路径改为对应的
