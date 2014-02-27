@@ -13,3 +13,4 @@ test dev
 this the dev space
 
 function 2 dev ok
+function 3 dev ok
