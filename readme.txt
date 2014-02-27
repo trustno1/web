@@ -6,6 +6,7 @@ Git has a mutable index called stage.
 Git has a mutable index called stage.
 Creating a new branch is quick AND simple.
 
+<<<<<<< Updated upstream
 i fix then haha
 test dev  
 
@@ -13,3 +14,6 @@ test dev
 test deving i need distributed
 
 i fix then this second
+=======
+test deving i need distributed
+>>>>>>> Stashed changes
