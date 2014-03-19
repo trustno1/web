@@ -1,0 +1,18 @@
+application: iliveweixin
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /static
+  static_dir: web/static
+- url: /.*
+  script: main.app  # a WSGI application in the main module's global scope
+  
+libraries:
+- name: django
+  version: "1.5"
+  
+env_variables:
+  DJANGO_SETTINGS_MODULE: 'web.settings'

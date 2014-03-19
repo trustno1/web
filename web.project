@@ -1,0 +1,26 @@
+<NotepadPlus>
+    <Project name="web">
+        <Folder name="web">
+            <Folder name="templates">
+                <File name="web\templates\list.html" />
+            </Folder>
+            <File name="web\settings.py" />
+            <File name="web\settings.pyc" />
+            <File name="web\urls.py" />
+            <File name="web\urls.pyc" />
+            <File name="web\views.py" />
+            <File name="web\views.pyc" />
+            <File name="web\wsgi.py" />
+            <File name="web\wsgi.pyc" />
+            <File name="web\__init__.py" />
+            <File name="web\__init__.pyc" />
+        </Folder>
+        <File name="app.yaml" />
+        <File name="db.sqlite3" />
+        <File name="iliveweixin.py" />
+        <File name="main.py" />
+        <File name="main.pyc" />
+        <File name="manage.py" />
+        <File name="readme.txt" />
+    </Project>
+</NotepadPlus>
